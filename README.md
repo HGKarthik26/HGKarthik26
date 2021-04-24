@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthik HG
-- 👀 I’m interested in building web apps
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML and AI Projects
+- 👀 I’m professional software developer
+- 🌱 Java | JavaScript
+- 💞️ Interested in Blockchain technology andd development
 - 📫 How to reach me : Mail me at hgkarthik26@gmail.com
 
 <!---
