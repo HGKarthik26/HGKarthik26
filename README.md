@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthik HG
-- 👀 I’m professional software developer
-- 🌱 Java | JavaScript | ReactJS | Express | MongoDB
-- 💞️ Interested in Blockchain technology andd development
+- 👀 I’m professional full stack software developer
+- 🌱 Java 8 | JavaScript ES6 | ReactJS | MySQL | Docker | Python
+- 💞️ Interested in Block Chain development
 - 📫 How to reach me : Mail me at hgkarthik26@gmail.com
 
 <!---
